@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aisharizwan111
-- 👀 I’m interested in artificiall intellegence..
+- 👀 I’m interested in artificiall intelligence
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on artificiall intellegence
+- 💞️ I’m looking to collaborate on artificiall intelligence
 - 📫 How to reach me email me ayesharizwantts123@gemail.com
 
 <!---
